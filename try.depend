@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1586522713 source:d:\university\try\main.c
+	<stdio.h>
+	<stdlib.h>
+	"omar1.h"
+
+1586363665 d:\university\try\maen.h
+
+1586522664 d:\university\try\omar1.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<setjmp.h>
+
+1588115978 source:d:\university\data structures\proj1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PROJ.h"
+
+1588174940 d:\university\data structures\proj1\proj.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<setjmp.h>
+
+1588174999 source:d:\university\data structures\myproj\proj1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PROJ.h"
+
+1589896106 d:\university\data structures\myproj\proj1\proj.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<setjmp.h>
+
